@@ -1,0 +1,3 @@
+categoria,
+pergunta,
+resporta;
