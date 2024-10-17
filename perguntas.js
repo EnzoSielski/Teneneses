@@ -1,3 +1,17 @@
-categoria,
-pergunta,
-resporta;
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta'
+)
+
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta'
+)
+
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta'
+)
