@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'Física Nuclear',
+    'Qual o metódo de geração de energia que é realizada no interior do sol?',
+    'É feito Fusão Nuclear, fundindo moléculas de hidrogênio em hélio'
 )
 
 criaCartao(
