@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'categoria',
-    'pergunta',
+    'Cultura',
+    '',
     'resposta'
 )
