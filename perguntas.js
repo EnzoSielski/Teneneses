@@ -1,7 +1,7 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
+    'História',
+    'Qual foi o ultimo país a deixar a União SOvieticá?',
+    'Pelo increvel que pareça, foi o Cazaquistão.'
 )
 
 criaCartao(
