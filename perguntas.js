@@ -1,7 +1,7 @@
 criaCartao(
-    "categoria",
-    "pergunta",
-    "resposta"
+    'categoria',
+    'pergunta',
+    'resposta'
 )
 
 criaCartao(
